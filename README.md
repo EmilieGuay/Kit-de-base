@@ -1,5 +1,5 @@
 # Kit de base 
-Ce répertoire contient les informations sur le kit de base suggéré pour commencer à faire de la programmation en robotique () avec les cartes de type Arduino UNO et pour réaliser les premières activités en intelligence artificielle avec l'App-IA (https://github.com/EmilieGuay/App-IA). 
+Ce répertoire contient les informations sur le kit de base suggéré pour commencer à faire de la programmation en robotique (https://github.com/EmilieGuay/Programmer-Arduino) avec les cartes de type Arduino UNO et pour réaliser les premières activités en intelligence artificielle avec l'App-IA (https://github.com/EmilieGuay/App-IA). 
 
 La trousse de base continent 20 kits de base et un kit de capteurs ultrasons qui permet de faire des expériences en cinématique, par exemple. Pour cela, on peut utiliser l'application Adar (https://github.com/EmilieGuay/Adar). 
 
